@@ -1,0 +1,14 @@
+C:\Users\akash.mahasamy\Desktop\ReportGenerator\bin\Debug\net8.0\ReportGenerator.exe
+C:\Users\akash.mahasamy\Desktop\ReportGenerator\bin\Debug\net8.0\ReportGenerator.deps.json
+C:\Users\akash.mahasamy\Desktop\ReportGenerator\bin\Debug\net8.0\ReportGenerator.runtimeconfig.json
+C:\Users\akash.mahasamy\Desktop\ReportGenerator\bin\Debug\net8.0\ReportGenerator.dll
+C:\Users\akash.mahasamy\Desktop\ReportGenerator\bin\Debug\net8.0\ReportGenerator.pdb
+C:\Users\akash.mahasamy\Desktop\ReportGenerator\obj\Debug\net8.0\ReportGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akash.mahasamy\Desktop\ReportGenerator\obj\Debug\net8.0\ReportGenerator.AssemblyInfoInputs.cache
+C:\Users\akash.mahasamy\Desktop\ReportGenerator\obj\Debug\net8.0\ReportGenerator.AssemblyInfo.cs
+C:\Users\akash.mahasamy\Desktop\ReportGenerator\obj\Debug\net8.0\ReportGenerator.csproj.CoreCompileInputs.cache
+C:\Users\akash.mahasamy\Desktop\ReportGenerator\obj\Debug\net8.0\ReportGenerator.dll
+C:\Users\akash.mahasamy\Desktop\ReportGenerator\obj\Debug\net8.0\refint\ReportGenerator.dll
+C:\Users\akash.mahasamy\Desktop\ReportGenerator\obj\Debug\net8.0\ReportGenerator.pdb
+C:\Users\akash.mahasamy\Desktop\ReportGenerator\obj\Debug\net8.0\ReportGenerator.genruntimeconfig.cache
+C:\Users\akash.mahasamy\Desktop\ReportGenerator\obj\Debug\net8.0\ref\ReportGenerator.dll
