@@ -12,7 +12,7 @@ namespace StudentManagement
         public void AddStudent(Student student)
         {
 
-            if (students.Count >= 1)
+            if (students.Count >= 5)
             {
                 MaxReached?.Invoke();
                 return;
