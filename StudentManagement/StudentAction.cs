@@ -12,7 +12,7 @@ namespace StudentManagement
         public void AddStudent(Student student)
         {
 
-            if (students.Count >= 1)
+            if (students.Count >= 5)
             {
                 MaxReached?.Invoke();
                 return;
@@ -73,7 +73,7 @@ namespace StudentManagement
 
         public void DepartmentInformation()
         {
-            var group = students.GroupBy(student => student.Department);
+            var group = students.GroupBy(student => student.Age);
             foreach (var item in group)
             {
                 Console.WriteLine($"\nDepartment: {item.Key} ({item.Count()} Students)");
